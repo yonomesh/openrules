@@ -1,0 +1,31 @@
+name: Update
+
+# on:
+#   schedule:
+#      - cron: '0 6 * * *'
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Update
+        run: |
+          make adguardhome
+          make sing
+          make anti-ad
+          make clean
+      - name: "Set up Git"
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v6

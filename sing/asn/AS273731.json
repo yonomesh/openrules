@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "ip_cidr": "2804:8b6c::/37"
+      "ip_cidr": "2804:8b6c::/32"
     }
   ]
 }

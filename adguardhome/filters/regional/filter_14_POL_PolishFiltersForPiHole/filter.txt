@@ -1,11 +1,11 @@
 !
 ! Title: POL: Polish filters for Pi-hole
 ! Description: Polish filters for Pi-hole.
-! Version: 1.0.14.93
+! Version: 1.0.15.1
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-03-06T22:11:00.768Z
+! Last modified: 2026-04-08T14:41:14.853Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 ||0daib.pl^
 ||0x01n2ptpuz3.com^
@@ -111,6 +111,7 @@
 ||dynacrems.wp.pl^
 ||ebrokerpartner.pl^
 ||edujikim.com^
+||effectivegatecpm.com^
 ||embed.powercontent.pl^
 ||embemy.com^
 ||eu.ekatox.com^
@@ -128,6 +129,7 @@
 ||gasurvey.gemius.com^
 ||gcontent.services.tvn.pl^
 ||glaimtug.com^
+||glampress.pl^
 ||googlesyndication.com^
 ||goprediction.com^
 ||gotowanie.pl.edrrak.com^
@@ -165,6 +167,7 @@
 ||klrtspet.net^
 ||konto.amronet.pl^
 ||krakenfolio.com^
+||lapetitefreres.com^
 ||lcx.pl^
 ||leadexpert.pl^
 ||legenhit.com^
@@ -245,6 +248,7 @@
 ||serwer1566493.home.pl^
 ||shift.oferty-kredytowe.pl^
 ||shoplov.in^
+||showmediadaily.com^
 ||shownewsdaily.com^
 ||sign-doc.com^
 ||skdailynews.com^
@@ -298,6 +302,7 @@
 ||trophylab.com^
 ||truelovesbeauty.co.uk^
 ||tvmoviespoilers.com^
+||tvpnews.site^
 ||ulixes.pl^
 ||unknow.now.sh^
 ||uod2quk646.com^
@@ -324,6 +329,7 @@
 ||xinloc.com^
 ||yearning-go.com^
 ||ymetrica.com^
+||z-ostatniej-chwili.com.pl^
 ||zaloz-netia.pl^
 ||zapmeta.com.pl^
 ||zas.mylead.global^
@@ -331,3 +337,4 @@
 ||znicely.com^
 ||zostofou.link^
 ||zukxd6fkxqn.com^
+||mondeanimalinteressant.com^

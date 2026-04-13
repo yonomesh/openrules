@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "ip_cidr": "2602:fbaa::/36"
+      "ip_cidr": "199.48.212.0/22"
     }
   ]
 }

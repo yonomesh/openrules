@@ -5,6 +5,7 @@
       "domain": [
         "asusrouter.com",
         "instant.arubanetworks.com",
+        "local.adguard.org",
         "miwifi.com",
         "oasisauth.h3c.com",
         "router.asus.com",
@@ -116,6 +117,7 @@
         "home.arpa",
         "internal",
         "invalid",
+        "kis.v2.scr.kaspersky-labs.com",
         "lan",
         "leike.cc",
         "local",
@@ -130,7 +132,6 @@
         "router.ctc",
         "tendawifi.com",
         "test",
-        "test.steampowered.com",
         "tplinkwifi.net",
         "ts.net",
         "zte.home"

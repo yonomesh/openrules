@@ -1,11 +1,11 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
-! Version: 1.0.17.1
+! Version: 1.0.17.5
 ! Homepage: http://abpvn.com/
-! Last modified: 2026-03-12T03:07:13.467Z
+! Last modified: 2026-04-09T04:54:36.349Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 0.0.0.0 admicro.vcmedia.com
 0.0.0.0 clix.vn
@@ -1897,6 +1897,7 @@
 0.0.0.0 mtrace.qq.com
 0.0.0.0 report.qq.com
 0.0.0.0 rmonitor.qq.com
+0.0.0.0 snowflake.qq.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 beacon.qq.com
@@ -9362,15 +9363,25 @@
 0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
 0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 csp-report.browser-intake-datadoghq.com
 0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 session-replay.browser-intake-datadoghq.com
 0.0.0.0 trace.browser-intake-datadoghq.com
 0.0.0.0 browser-intake-ap1-datadoghq.com
+0.0.0.0 browser-intake-ap2-datadoghq.com
 0.0.0.0 browser-intake-us3-datadoghq.com
 0.0.0.0 browser-intake-us5-datadoghq.com
 0.0.0.0 browser-intake-datadoghq.eu
+0.0.0.0 csp-report.browser-intake-datadoghq.eu
+0.0.0.0 logs.browser-intake-datadoghq.eu
+0.0.0.0 rum.browser-intake-datadoghq.eu
+0.0.0.0 session-replay.browser-intake-datadoghq.eu
+0.0.0.0 www.browser-intake-datadoghq.eu
 0.0.0.0 browser-intake-ddog-gov.com
+0.0.0.0 rum.browser-intake-ddog-gov.com
+0.0.0.0 session-replay.browser-intake-ddog-gov.com
+0.0.0.0 www.browser-intake-ddog-gov.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 log.aliyuncs.com
@@ -11339,6 +11350,14 @@
 0.0.0.0 sdk-oversea.dmrtb.com
 0.0.0.0 ssp-api.dmrtb.com
 0.0.0.0 www.dmrtb.com
+0.0.0.0 dmads.dailymotion.com
+0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 optoutadvertising.com
+0.0.0.0 adserving.optoutadvertising.com
+0.0.0.0 cdn.optoutadvertising.com
+0.0.0.0 proxy.optoutadvertising.com
+0.0.0.0 ster.optoutadvertising.com
+0.0.0.0 www.optoutadvertising.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -13137,6 +13156,7 @@
 0.0.0.0 62ad.com
 0.0.0.0 68s8.com
 0.0.0.0 6v41p4bsq.com
+0.0.0.0 734map.net
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 864feb57ruary.com
@@ -14422,6 +14442,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cf.adxcel.com
 0.0.0.0 cgicounter.puretec.de
+0.0.0.0 cgqcuskbtcusxl.com
 0.0.0.0 chaerel.com
 0.0.0.0 chaglihysty.pro
 0.0.0.0 chaipoksore.com
@@ -14648,6 +14669,7 @@
 0.0.0.0 crunchybears.com
 0.0.0.0 csm.cxpublic.com
 0.0.0.0 cst.cstwpush.com
+0.0.0.0 csyxnkhvueuh.com
 0.0.0.0 ctengine.io
 0.0.0.0 cts.tradepub.com
 0.0.0.0 ctubhxbaew.com
@@ -14811,7 +14833,6 @@
 0.0.0.0 dlrioxg1637dk.cloudfront.net
 0.0.0.0 dmp.starbolt.io
 0.0.0.0 dmtracker.com
-0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dn.loupmismaze.com
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dnemkhkbsdbl.com
@@ -14933,6 +14954,7 @@
 0.0.0.0 enquisite.com
 0.0.0.0 entercasino.com
 0.0.0.0 enviousthread.com
+0.0.0.0 ephesiansavvyinto.com
 0.0.0.0 epiccash.com
 0.0.0.0 epidermispushupvariable.com
 0.0.0.0 epomads2.4shared.com
@@ -14942,6 +14964,7 @@
 0.0.0.0 erdreamsofcryin.info
 0.0.0.0 ergadx.com
 0.0.0.0 ermin-oxj.info
+0.0.0.0 erpqkcfvsjjyap.com
 0.0.0.0 esellerate.net
 0.0.0.0 espionagegardenerthicket.com
 0.0.0.0 essbritanidim.club
@@ -15052,6 +15075,7 @@
 0.0.0.0 foundinggulfsaturate.com
 0.0.0.0 fovcy1jg.pro
 0.0.0.0 foxpush.com
+0.0.0.0 foxtlytvs.com
 0.0.0.0 fractionfridgejudiciary.com
 0.0.0.0 framestighterauthorize.com
 0.0.0.0 freckledoutsiderundaunted.com
@@ -15813,6 +15837,7 @@
 0.0.0.0 muermoabject.shop
 0.0.0.0 mugpothop.com
 0.0.0.0 multilinkhost.com
+0.0.0.0 mumazfqir.in
 0.0.0.0 murkymouse.online
 0.0.0.0 mushroomreclaimschnapps.com
 0.0.0.0 musiccounter.ru
@@ -15999,6 +16024,7 @@
 0.0.0.0 ojooo.com
 0.0.0.0 ojqbnqdwycws.com
 0.0.0.0 ojwoqdpiwdt.com
+0.0.0.0 okjmiqaqjakm.in
 0.0.0.0 okspeechlessamong.com
 0.0.0.0 oljqobudyusf.com
 0.0.0.0 omazeiros.com
@@ -16309,6 +16335,7 @@
 0.0.0.0 protrafficinspector.com
 0.0.0.0 provexia.com
 0.0.0.0 proximic.com
+0.0.0.0 ps.bogymentracery.cyou
 0.0.0.0 psaltauw.net
 0.0.0.0 psoroumukr.com
 0.0.0.0 psstt.com
@@ -16722,6 +16749,7 @@
 0.0.0.0 softclick.com.br
 0.0.0.0 soggy-surround.com
 0.0.0.0 solarcyclonesky.com
+0.0.0.0 solutions2000.com
 0.0.0.0 sombersea.com
 0.0.0.0 sombersquirrel.com
 0.0.0.0 sombersurprise.com
@@ -16999,6 +17027,7 @@
 0.0.0.0 topsites.com.br
 0.0.0.0 topstats.com
 0.0.0.0 toptrendyinc.com
+0.0.0.0 toqdizbfp.com
 0.0.0.0 tosfeed.com
 0.0.0.0 tospointor.com
 0.0.0.0 totemcash.com
@@ -17497,6 +17526,7 @@
 0.0.0.0 yoc-performance.com
 0.0.0.0 yoggrt.com
 0.0.0.0 yonhelioliskor.com
+0.0.0.0 yoshdeum.com
 0.0.0.0 youradexchange.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yrhnw7h63.com
@@ -17642,6 +17672,7 @@
 0.0.0.0 api.iterable.com
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.quantumgraph.com
+0.0.0.0 api.sprig.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.wipmania.com
@@ -17894,6 +17925,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.x2convert.com
 0.0.0.0 log.ys7.com
+0.0.0.0 logger.eji6.cc
 0.0.0.0 logger.unsplash.com
 0.0.0.0 logriancesenius.com
 0.0.0.0 logs.amap.com

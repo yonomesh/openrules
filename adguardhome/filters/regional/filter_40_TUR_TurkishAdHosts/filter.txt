@@ -1,11 +1,11 @@
 !
 ! Title: TUR: Turkish Ad Hosts
 ! Description: Necessary hosts file to block tracking and possibly advertising networks in commonly used mobile apps (and possibly web pages) in Turkey.
-! Version: 1.0.14.71
+! Version: 1.0.14.74
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
-! Last modified: 2026-02-20T10:17:49.086Z
+! Last modified: 2026-04-10T07:40:22.276Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 ||0.oldgyhogola.com^
 ||061353efff4748e1a51974616704a9cc.js.ubembed.com^
@@ -129,6 +129,7 @@
 ||ads.google.com^
 ||ads.inmobi.com^
 ||ads.linkedin.com^
+||ads.microsoft.com^
 ||ads.themoneytizer.com^
 ||ads.ndtv1.com^
 ||ads.pinterest.com^
@@ -144,7 +145,9 @@
 ||ads.stickyadstv.com^
 ||ads.tiktok.com^
 ||ads.trafficjunky.net^
+||ads.x.com^
 ||ads.vidoomy.com^
+||ads.vk.com^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.yieldmo.com^
@@ -303,6 +306,7 @@
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
 ||api-dataroid.akbank.com^
+||api-dataroid.akbank.com.tr^
 ||api-dataroid.akode.com^
 ||api-eu.bidmachine.io^
 ||api-js.datadome.co^
@@ -575,6 +579,7 @@
 ||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
 ||cdn-au.onetrust.com^
+||cdn-dataroid.akbank.com.tr^
 ||cdn-eu.dynamicyield.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-magiclinks.trackonomics.net^
@@ -690,6 +695,7 @@
 ||cross-promo-provider.easybrain.com^
 ||crta.dailymail.co.uk^
 ||cs.admanmedia.com^
+||cs.avito.ru^
 ||cs.luckyorange.net^
 ||cs.ns1p.net^
 ||csi.gstatic.com^
@@ -1215,6 +1221,7 @@
 ||metrics.mzstatic.com^
 ||metrics.vinted.it^
 ||metrics-dra.dt.hicloud.com^
+||metrics-ingress-web.svc.vinted.com^
 ||metrics-logger.spot.im^
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
@@ -1586,7 +1593,7 @@
 ||sdk.iad-05.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
-||sdk.postscrip.io^
+||sdk.postscript.io^
 ||sdk.pulse.schibsted.com^
 ||sdk.sharethrough.com^
 ||sdk-api-v1.singular.net^
@@ -1646,6 +1653,7 @@
 ||snap.licdn.com^
 ||snigelweb-com.videoplayerhub.com^
 ||snippet.affilimate.io^
+||snssdk1233.onelink.me^
 ||snssdk1340.onelink.me^
 ||socket.streamable.com^
 ||sommelier.futurehybrid.tech^
@@ -1718,6 +1726,7 @@
 ||statics.esputnik.com^
 ||statics.olx.com.tr^
 ||statistics.daktilo.com^
+||stats.avito.ru^
 ||stats.bannersnack.com^
 ||stats.birgun.net^
 ||stats.hprofits.com^

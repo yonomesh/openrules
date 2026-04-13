@@ -1,13 +1,14 @@
 !
 ! Title: HaGeZi's Vivo Tracker Blocklist
 ! Description: Blocks Vivo native broadband trackers that track your activity.
-! Version: 1.0.0.16
+! Version: 1.0.0.20
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2026-02-27T18:17:27.627Z
+! Last modified: 2026-04-03T14:00:53.187Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
+||adlog.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||az.appstore.vivo.com.cn^
 ||appstore-trace-h5sdk.vivo.com.cn^
@@ -18,6 +19,7 @@
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^
 ||vhs.wwstat.com.eo.dnse0.com^
+||adlog.vivo.com^
 ||ads-api.vivo.com^
 ||asia-abeacdataonrt-stsdk.vivoglobal.com^
 ||asia-abeacdataort-stsdk.vivoglobal.com^
@@ -54,6 +56,7 @@
 ||asia-vcode-or.vivoglobal.com^
 ||asia-vpushonrt-stsdk.vivoglobal.com^
 ||asia-vpushort-stsdk.vivoglobal.com^
+||au-vcode-od.vivoglobal.com^
 ||br-p.vivoglobal.com^
 ||cl-vcode-od.vivoglobal.com^
 ||cname-ali-asia-stsdk.vivoglobal.com^
@@ -228,9 +231,22 @@
 ||tr-vcode-od.vivoglobal.com^
 ||tr-vcode-or.vivoglobal.com^
 ||tr-weather.vivoglobal.com^
+||uk-timesync.vivoglobal.com^
 ||err.up.vivoglobal.com^
 ||xn-ex-adreq-asa-c5b.vivoglobal.com^
+||za-p.vivoglobal.com^
 ||zasc-cota.vivoglobal.com^
+||zasc-domaincfg.vivoglobal.com^
+||zasc-err-up.vivoglobal.com^
+||zasc-onrt-stsdk.vivoglobal.com^
+||zasc-ort-stsdk.vivoglobal.com^
+||zasc-pnrt-stsdk.vivoglobal.com^
+||zasc-romsp-unifyconfig.vivoglobal.com^
+||zasc-st-sl.vivoglobal.com^
+||zasc-stsdk.vivoglobal.com^
+||zasc-timesync.vivoglobal.com^
+||zasc-vcode-api.vivoglobal.com^
 ||zasc-vcode-od.vivoglobal.com^
+||zasc-vcode-or.vivoglobal.com^
 ||h4g3z1-native.vivo.web.app^
 ||vhs.wwstat.com^

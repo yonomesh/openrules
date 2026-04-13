@@ -1,11 +1,11 @@
 !
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: List for blocking ads, tracking, scams & malware mainly on Swedish websites
-! Version: 1.0.15.42
+! Version: 1.0.15.48
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2026-02-13T07:27:39.466Z
+! Last modified: 2026-04-03T14:00:55.963Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 127.0.0.1 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -413,7 +413,6 @@
 127.0.0.1 digitalfeedback.euro.confirmit.com
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 dinapengar.compricer.se
-127.0.0.1 dinbilgaranti.se
 127.0.0.1 dl.episerver.net
 127.0.0.1 dmcdn.yieldbird.com
 127.0.0.1 dmp.adform.net
@@ -459,6 +458,7 @@
 127.0.0.1 extern.prisjakt.nu
 127.0.0.1 external.reseguiden.se
 127.0.0.1 ezodn.com
+127.0.0.1 ezoicanalytics.com
 127.0.0.1 f.convertkit.com
 127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
 127.0.0.1 fastlane.rubiconproject.com
@@ -470,7 +470,6 @@
 127.0.0.1 flx1.com
 127.0.0.1 fml-x.com
 127.0.0.1 fms.360yield.com
-127.0.0.1 footjoygolfskorrea.com.se
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 fraagesport.com
 127.0.0.1 franecki.net
@@ -535,6 +534,7 @@
 127.0.0.1 improvedigital.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 imstore.bet365affiliates.com
+127.0.0.1 inferred.litix.io
 127.0.0.1 infotorg.d2.sc.omtrdc.net
 127.0.0.1 ingest.analytics.nation.dev
 127.0.0.1 insight.adsrvr.org
@@ -561,6 +561,7 @@
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.mgid.com
+127.0.0.1 jsc.native.azerion.com
 127.0.0.1 jscdn.yieldbird.com
 127.0.0.1 jssdkcdns.mparticle.com
 127.0.0.1 js-agent.newrelic.com
@@ -585,6 +586,7 @@
 127.0.0.1 lifeofsvea.mainroll.com
 127.0.0.1 litix.io
 127.0.0.1 live.demand.supply
+127.0.0.1 live-tag.creatopy.net
 127.0.0.1 load.a.receptskatt.se
 127.0.0.1 load.sumome.com
 127.0.0.1 loadbalancer.visitor-analytics.io
@@ -652,7 +654,6 @@
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nichehuset.dk
 127.0.0.1 nitroscripts.com
-127.0.0.1 norranstats.azurewebsites.net
 127.0.0.1 norstatsurveys.com
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
@@ -928,13 +929,13 @@
 127.0.0.1 tr.apsisforms.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.adtraction.com
+127.0.0.1 track.mediaintelliview.com
 127.0.0.1 track.postkodlotteriet.se
 127.0.0.1 track.uniqodo.com
 127.0.0.1 track.yetric.net
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.gamedock.io
 127.0.0.1 tracker.metricool.com
-127.0.0.1 tracker.zummycloud.com
 127.0.0.1 tracker-v4.gamedock.io
 127.0.0.1 tracker.kollega.open-analytics.se
 127.0.0.1 tracker.kulturradet.open-analytics.se

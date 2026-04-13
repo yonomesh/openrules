@@ -1,11 +1,11 @@
 !
 ! Title: HaGeZi's Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
-! Version: 1.0.15.23
+! Version: 1.0.15.27
 ! Homepage: https://github.com/hagezi/dns-blocklists#referral
-! Last modified: 2026-01-16T20:09:35.752Z
+! Last modified: 2026-04-03T14:00:49.521Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 @@||*-go.kelkoogroup.net^
 @@||*cdn.exponea.com^
@@ -522,6 +522,8 @@
 @@||linkspasson.com^
 @@||linksredirect.com^
 @@||linksshift.com^
+@@||linkvertise.com^
+@@||linkvertise.net^
 @@||list-manage.com^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||lndata.com^
@@ -599,6 +601,7 @@
 @@||p.placed.com^
 @@||partnerlinks.io^
 @@||partners*.stacksocial.com^
+@@||partners.webmasterplan.com^
 @@||pepperjamnetwork.com^
 @@||personaclick.com^
 @@||personalservices.biz^
@@ -631,6 +634,7 @@
 @@||purchasenow.us^
 @@||px.a8.net^
 @@||pxf.io^
+@@||pxl.leads.su^
 @@||qflm.net^
 @@||qksrv.net^
 @@||r*.rs6.net^

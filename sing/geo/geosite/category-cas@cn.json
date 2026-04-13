@@ -3,6 +3,15 @@
   "rules": [
     {
       "domain": [
+        "www.entrust.cn",
+        "www.microsoft.com",
+        "pki-goog.l.google.com",
+        "c.pki.goog",
+        "i.pki.goog",
+        "o.pki.goog",
+        "crl.pki.goog",
+        "crls.pki.goog",
+        "ocsp.pki.goog",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -14,20 +23,16 @@
         "valid.apple.com",
         "valid.origin-apple.com.akadns.net",
         "cdn.globalsigncdn.com.cdn.cloudflare.net",
-        "crl.globalsign.net",
-        "www.microsoft.com",
-        "pki-goog.l.google.com",
-        "c.pki.goog",
-        "i.pki.goog",
-        "o.pki.goog",
-        "crl.pki.goog",
-        "crls.pki.goog",
-        "ocsp.pki.goog",
-        "www.entrust.cn"
+        "crl.globalsign.net"
       ],
       "domain_suffix": [
         "yahoo.cn",
         "yahoo.com.cn",
+        "oemssl.cn",
+        "oemssl.cn.cdn.cloudflare.net",
+        "sectigochina.com",
+        "sectigochina.com.cdn.cloudflare.net",
+        "trust-provider.cn",
         "dcocsp.cn",
         "digicert.cn",
         "alphassl.com",
@@ -35,12 +40,7 @@
         "globalsign.cn",
         "globalsign.com",
         "globalsigncdn.com",
-        "sslcom.cn",
-        "oemssl.cn",
-        "oemssl.cn.cdn.cloudflare.net",
-        "sectigochina.com",
-        "sectigochina.com.cdn.cloudflare.net",
-        "trust-provider.cn"
+        "sslcom.cn"
       ]
     }
   ]

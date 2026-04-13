@@ -1,13 +1,12 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.15.26
+! Version: 1.0.15.29
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-01-13T00:32:26.278Z
+! Last modified: 2026-04-03T14:00:52.026Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
-
 ||1000-dating-sites.com^
 ||100-best-dating-sites.com^
 ||100-best-single-sites.com^
@@ -167,6 +166,7 @@
 ||campus.co.za^
 ||casual-date.com.ar^
 ||casualdating4u.com^
+||casualdating69.com^
 ||casualdating-club.de^
 ||casualdating.net^
 ||casual-fling.com^
@@ -199,6 +199,7 @@
 ||christiandisableddating.com^
 ||christianlifestyle.com^
 ||christianmingle.com^
+||citassenioronline.es^
 ||clickandflirt.com^
 ||clubeamizade.com^
 ||clubedamizade.com^
@@ -474,6 +475,7 @@
 ||eharmony.com^
 ||eharmony.co.uk^
 ||elitedatingcompany.net^
+||elitekink.com^
 ||elitemate.com^
 ||elitesingles.co.za^
 ||elovedates.com^
@@ -597,6 +599,7 @@
 ||hotbuddies.co.uk^
 ||hubpeople.ai^
 ||hubpeople.com^
+||hubz.pl^
 ||hushlove.com^
 ||ichwilldichjetzt.com^
 ||icouple.fr^
@@ -705,6 +708,7 @@
 ||localgilfs.com^
 ||localhottiesnow.com^
 ||localmaturedating.net^
+||localmeets.ie^
 ||lonelyparentsdate.com^
 ||lonelywivesdatelink.com^
 ||loopylove.com^
